@@ -1,5 +1,7 @@
 .env
 *.swp
-_host-volumes
+#_host-volumes
 
 \.idea/
+
+.DS_Store
