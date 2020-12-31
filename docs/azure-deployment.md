@@ -5,6 +5,7 @@
 ### Formación
 
 Técnico Superior en Administración de Sistemas Informáticos (2011)
+
 Grado en Ingeniería Informática en Sistemas de Información (2015)
 
 ### Situación laboral
@@ -12,6 +13,7 @@ Grado en Ingeniería Informática en Sistemas de Información (2015)
 Release Engineer => Control de versiones de desarrollo, empaquetado del software y despliegue automatizado (creación de la infraestrucura, instalación y configuración de software)
 
 DevOps => metodología de desarrollo software
+
 Ingenieros de sistemas con capacidades específicas para integrarse en equipos DevOps
 
 > Ref: https://www.paradigmadigital.com/techbiz/que-es-devops-y-sobre-todo-que-no-es-devops/
@@ -25,14 +27,19 @@ Telefónica I+D => Pragsis => ING => Telefónica Digital
 - Linux => RHEL/Centos | Debian/Ubuntu
 - Openstack
 
-- Hadoop Environment => Hortonworks/Cloudera
+
+- Hadoop Stack => Hortonworks/Cloudera
+
 
 - Docker
+
 
 - AWS
 - Azure
 
+
 - Kubernetes
+
 
 - Databricks
 
@@ -47,6 +54,7 @@ Telefónica I+D => Pragsis => ING => Telefónica Digital
 # Yii2 PHP Docker Image
 
 > Repository: https://github.com/yiisoft/yii2-docker
+
 > Fork: https://github.com/rodvic/yii2-docker
 
 ## Setup
@@ -117,6 +125,8 @@ Docker push:
 
 Username: adminuser
 
+Image: Ubuntu Server 18.04 LTS
+
 SSH Access
 
     ssh adminuser@PUBLICIP
@@ -152,3 +162,9 @@ Docker Run
 ## Container Instances
 
 ## AKS
+
+# Other Azure Services
+
+## Database Services
+
+## Databricks
