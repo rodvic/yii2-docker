@@ -51,6 +51,12 @@ Telefónica I+D => Pragsis => ING => Telefónica Digital
 
 > Azure: azusalarv01@outlook.com
 
+## Cloud
+
+AWS - Azure - Google Cloud
+
+![Cloud](images/cloud.png)
+
 # Yii2 PHP Docker Image
 
 > Repository: https://github.com/yiisoft/yii2-docker
