@@ -77,10 +77,6 @@ Create new basic proyect
 
     composer create-project yiisoft/yii2-app-basic /app
 
-> Build from repository:
-
-    docker-compose run --rm php composer install
-
 # Azure Container Registry
 
 > Reference: https://docs.microsoft.com/es-es/azure/container-registry/container-registry-get-started-docker-cli
@@ -98,10 +94,6 @@ Enable Administrator Account
     az acr update -n preyii --admin-enabled true
 
 # Docker build and push
-
-vendor directory must exist (composer install): 
-
-    _host-volumes/app/vendor/
 
 Docker build:
 
