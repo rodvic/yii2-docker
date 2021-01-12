@@ -26,21 +26,11 @@ Telefónica I+D => Pragsis => ING => Telefónica Digital
 - Ansible
 - Linux => RHEL/Centos | Debian/Ubuntu
 - Openstack
-
-
 - Hadoop Stack => Hortonworks/Cloudera
-
-
 - Docker
-
-
 - AWS
 - Azure
-
-
 - Kubernetes
-
-
 - Databricks
 
 ## Contacto
@@ -48,8 +38,6 @@ Telefónica I+D => Pragsis => ING => Telefónica Digital
 - Linkedin: https://www.linkedin.com/in/alejandrorodvic/
 - Github: rodvic
 - USAL: alejandro_rv@usal.es
-
-> Azure: azusalarv01@outlook.com
 
 ## Cloud
 
